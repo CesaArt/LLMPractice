@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "llm practice"
+version = "0.1.0"
+description = "with help of pedro"
+authors = ["Cesar Meillon <cesar.meillon@gmail.com>"]
+license = "si"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+transformers = "^4.46.2"
+torch = "^2.5.1"
+torchvision = "^0.20.1"
+torchaudio = "^2.5.1"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
