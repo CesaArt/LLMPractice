@@ -12,3 +12,5 @@ poetry install
 ```
 poetry run python app.py
 ```
+
+Setup huggingface token on `.env` file
