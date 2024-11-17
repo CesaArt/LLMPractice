@@ -7,7 +7,7 @@ license = "si"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "~3.11"
 transformers = "^4.46.2"
 torch = "^2.5.1"
 torchvision = "^0.20.1"
